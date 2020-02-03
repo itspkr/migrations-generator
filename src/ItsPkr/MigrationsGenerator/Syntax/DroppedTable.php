@@ -1,6 +1,6 @@
 <?php
 
-namespace Xethron\MigrationsGenerator\Syntax;
+namespace ItsPkr\MigrationsGenerator\Syntax;
 
 class DroppedTable
 {

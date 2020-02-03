@@ -12,6 +12,14 @@ Generate Laravel Migrations from an existing database, including indexes and for
 
 Please note that the Laravel 4 Generator edits have been moved to `https://github.com/xethron/Laravel-4-Generators.git` to update compatibility.
 
+## Laravel 6 installation
+
+The recommended way to install this is through composer:
+
+```bash
+composer require --dev "itspkr/migrations-generator"
+```
+
 ## Laravel 5 installation
 
 The recommended way to install this is through composer:
